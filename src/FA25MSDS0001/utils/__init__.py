@@ -1,0 +1,1 @@
+from .validation import validate_name, validate_marks
